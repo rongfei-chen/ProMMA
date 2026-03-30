@@ -10,16 +10,12 @@ Official Implementation of ProMMA model
 - 一键运行示例
 
 ## ✨ 项目结构
+'''
 ├── src/ # 核心代码  
-
 ├── data/ # 数据集存放 / 下载脚本
-
 ├── models/ # 模型定义 
-
 ├── results/ # 实验结果  
-
 ├── scripts/ # 运行脚本 
-
 └── README.md # 说明文档
 
 ## 🔧 环境配置
